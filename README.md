@@ -5,6 +5,13 @@ Este repositório contém materiais para estudo da linguagem de programação **
 ## Sobre a Linguagem
 Java é uma linguagem de programação orientada a objetos, amplamente utilizada para desenvolvimento de aplicações desktop, web e mobile. Sua principal característica é a portabilidade, permitindo que programas escritos em Java sejam executados em diferentes plataformas.
 
+### É importante criar uma pasta onde os programas estarão armazenados
+O professor recomendou criar um local no computador para armazenar os projetos desenvolvidos com as linguagens até o final de conclusão de curso. Isso ajudará na organização e no acompanhamento do progresso.
+```bash
+C:\DEV\linguagem_de_programacao
+```
+
+
 ## Estrutura do Repositório
 - `01-introducao-java.md` - Conceitos básicos e primeiros passos com Java.
 - `02-sintaxe-variaveis.md` - Estrutura da linguagem, tipos de dados e variáveis.

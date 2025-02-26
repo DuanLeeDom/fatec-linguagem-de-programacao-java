@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class App {
     public static void main(String[] args) throws Exception {
         // define uma variavel string com um valor
@@ -9,8 +11,25 @@ public class App {
         // define uma variável inteira com o valor que
         // representa o tamanho do texto contido na variavel frase
         int tamanho = frase.length();
-        // faz um laço de repeticao de 0 até um valor antes do tamanho
-        // do texto
+        // faz um laço de repeticao de 0 até um valor antes do tamanho do texto
+        
+        // =======================================================
+        // Cria um Scanner para pegar o que o usuário digita
+        Scanner teclado = new Scanner(System.in);
+
+        // Pede a frase ao usuário
+        System.out.print("Digite a frase que será cifrada: ");
+        // Guarda a frase digitada na variável 'frase'
+        frase = teclado.nextLine();
+
+        // Pede a chave ao usuário
+        System.out.print("Digite a chave de cifragem: ");
+        // Guarda a chave digitada na variável 'chave'
+        chave = teclado.nextInt();
+
+        // Conta quantos caracteres a frase tem e guarda em 'tamanho'
+        tamanho = frase.length();
+
         for (int posicao = 0; posicao < tamanho; posicao++ ){
             // pega uma letra da frase e quanda na variavel de tipo char
             char letra = frase.charAt(posicao);

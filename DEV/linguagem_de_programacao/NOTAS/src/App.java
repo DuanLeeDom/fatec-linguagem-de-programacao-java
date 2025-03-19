@@ -18,7 +18,7 @@ public class App {
         System.out.printf("O resultado é %010.2f!%n", res); // Com zeros à esquerda
         System.out.printf("O resultado é %,10.2f!%n", res); // Formato com separador de milhar
 
-        System.out.printf("\tO resultado é %f!%n", res);      // Valor padrão (6 casas decimais) + a tabulação
+        System.out.printf("\tO resultado é %f!%n", res);    // Valor padrão (6 casas decimais) + a tabulação
     
         /* 
          * 

@@ -67,6 +67,15 @@ public class App {
         }
         System.out.println("Qual o novo conteúdo para a posição " + posicao + "?");
         String novo = scanner.nextLine();
+
+        /* // Exemplo de tratamento de exceção para conversão de String para int
+        try {
+            int aux = Integer.parseInt(novo);
+        } catch (NumberFormatException e) {
+            e.printStackTrace();
+        }
+        */
+        
         return novo;
     }
 

@@ -138,9 +138,9 @@ public class TextEditor {
         System.out.print("Digite o número da linha a ser editada (1-" + MAX_LINES + "): ");
         try {
             int lineNumber = Integer.parseInt(scanner.nextLine()) - 1;
-            if (lineNumber < 0 || lineNumber >= MAX_LINES) {
-                System.out.println("Linha atual: " + (lines[lineNumber].isEmpty() ? "vazia" : lines[lineNumber]));
-                System.out.println("Digite o novo texto: ");
+            if (lineNumber >= 0 && lineNumber < MAX_LINES) {
+                System.out.println("Linha atual: " + (lines[lineNumber].isEmpty() ? "<vazia>" : lines[lineNumber]));
+                System.out.print("Digite o novo texto: ");
                 lines[lineNumber] = scanner.nextLine();
                 System.out.println("Linha " + (lineNumber + 1) + " editada com sucesso!");
             } else {

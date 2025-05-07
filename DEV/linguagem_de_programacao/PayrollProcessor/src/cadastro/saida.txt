@@ -1,0 +1,20 @@
+Nome: Pedro
+Horas Trabalhadas: 50
+Valor da Hora: 20,00
+Salário Bruto: 1000,00
+---
+Nome: Maria Oliveira
+Horas Trabalhadas: 35
+Valor da Hora: 45,00
+Salário Bruto: 1575,00
+---
+Nome: Carlos Souza
+Horas Trabalhadas: 20
+Valor da Hora: 60,00
+Salário Bruto: 1200,00
+---
+Nome: Leticia
+Horas Trabalhadas: 60
+Valor da Hora: 30,00
+Salário Bruto: 1800,00
+---

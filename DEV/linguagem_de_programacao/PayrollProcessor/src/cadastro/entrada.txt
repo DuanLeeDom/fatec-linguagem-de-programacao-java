@@ -1,0 +1,12 @@
+Pedro
+50
+20
+Maria Oliveira
+35
+45.00
+Carlos Souza
+20
+60.00
+Leticia
+60
+30

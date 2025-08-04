@@ -1,51 +1,92 @@
-# FATEC ADS - Introdução à Linguagem de Programação Java
+# 📘 Linguagem de Programação Java — Fatec Bragança Paulista
 
-Este repositório contém materiais para estudo da linguagem de programação **Java**, abordando desde os conceitos básicos até tópicos mais avançados para aprofundamento.
+Este repositório contém materiais desenvolvidos para a disciplina de **Linguagem de Programação Java** do curso de **Análise e Desenvolvimento de Sistemas** na [Fatec Bragança Paulista](https://fatecbraganca.cps.sp.gov.br/), vinculada ao Centro Paula Souza. O objetivo é documentar atividades acadêmicas, facilitar revisões futuras e compartilhar práticas de estudo com outros estudantes.
 
-## Sobre a Linguagem
-Java é uma linguagem de programação orientada a objetos, amplamente utilizada para desenvolvimento de aplicações desktop, web e mobile. Sua principal característica é a portabilidade, permitindo que programas escritos em Java sejam executados em diferentes plataformas.
+⚠️ **Aviso**: Este conteúdo é destinado exclusivamente a fins educacionais, incluindo práticas de sala de aula, estudo individual e apoio ao aprendizado.
 
-### É importante criar uma pasta onde os programas estarão armazenados
-O professor recomendou criar um local no computador para armazenar os projetos desenvolvidos com as linguagens até o final de conclusão de curso. Isso ajudará na organização e no acompanhamento do progresso.
-```bash
-C:\DEV\linguagem_de_programacao
-```
+---
 
+## 📑 Índice
 
-## Estrutura do Repositório
-- `01-introducao-java.md` - Conceitos básicos e primeiros passos com Java.
-- `02-sintaxe-variaveis.md` - Estrutura da linguagem, tipos de dados e variáveis.
-- `03-estruturas-controle.md` - Condicionais e laços de repetição.
-- `04-poo-java.md` - Fundamentos de Programação Orientada a Objetos em Java.
-- `05-exercicios.md` - Lista de exercícios para prática.
-- `projetos/` - Exemplos e pequenos projetos para estudo prático.
+* [📖 Sobre o Projeto](#📖-sobre-o-projeto)
+* [🎓 Informações da Disciplina](#🎓-informações-da-disciplina)
+* [🛠️ Pré-requisitos](#🛠️-pré-requisitos)
+* [📂 Conteúdo Disponível](#📂-conteúdo-disponível)
+* [💻 Tecnologias Utilizadas](#💻-tecnologias-utilizadas)
+* [📊 Status do Projeto](#📊-status-do-projeto)
+* [⚖️ Termos de Uso e Aviso Legal](#⚖️-termos-de-uso-e-aviso-legal)
+* [📬 Contato](#📬-contato)
 
-## Conteúdos Abordados
-### 1. Introdução ao Java
-- História e características da linguagem.
-- Configuração do ambiente de desenvolvimento (JDK e IDEs).
+---
 
-### 2. Sintaxe e Variáveis
-- Estrutura básica de um programa Java.
-- Tipos primitivos e variáveis.
-- Entrada e saída de dados.
+## 📖 Sobre o Projeto
 
-### 3. Estruturas de Controle
-- Condições (`if`, `switch`).
-- Laços (`for`, `while`, `do-while`).
+Este repositório reúne exercícios, projetos e anotações desenvolvidos como parte das atividades da disciplina **Linguagem de Programação Java**. Ele serve como um registro da trajetória de aprendizado, com foco em consolidar conhecimentos e apoiar revisões futuras. O conteúdo pode ser útil para outros estudantes do curso que busquem referências práticas.
 
-### 4. Programação Orientada a Objetos (POO)
-- Classes e objetos.
-- Métodos e encapsulamento.
-- Herança e polimorfismo.
+---
 
-### 5. Projetos e Exercícios
-- Pequenos desafios e programas para reforçar o aprendizado.
+## 🎓 Informações da Disciplina
 
-## Requisitos
-- Ter o **Java Development Kit (JDK)** instalado.
-- Uma IDE recomendada: **Eclipse, IntelliJ IDEA, Apache NetBeans IDE 22 ou VS Code**.
-- Estaremos utilizando o **VS Code**, atenção instale o java dentro dele mesmo.
+* **Disciplina**: Linguagem de Programação Java
+* **Docente**: [Prof. Luciano Pelissoli](https://fatecbraganca.cps.sp.gov.br/professores/)
+* **Semestre**: 2º Semestre — 2025
+* **Instituição**: Fatec Bragança Paulista — Centro Paula Souza
 
-## Licença
-Este material é de uso acadêmico e livre para estudos.
+---
+
+## 🛠️ Pré-requisitos
+
+Para executar os projetos contidos neste repositório, recomenda-se ter instalado:
+
+* [IntelliJ IDEA](https://www.jetbrains.com/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+---
+
+## 📂 Conteúdo Disponível
+
+> Aqui você pode listar os principais tópicos abordados.
+
+* Introdução à lógica de programação
+* Tipos de dados e variáveis
+* Estruturas de decisão (condicionais)
+* Estruturas de repetição (laços)
+* Vetores e matrizes
+* Funções e procedimentos
+* Exercícios práticos e algoritmos desenvolvidos em sala
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+* Java
+
+---
+
+## 📊 Status do Projeto
+
+![Status](https://img.shields.io/badge/status-Finalizado-blue)
+
+Este repositório contempla os materiais do 2º semestre de 2025 e encontra-se finalizado. Alterações ou melhorias podem ser realizadas futuramente com fins de revisão e organização.
+
+---
+
+## ⚖️ Termos de Uso e Aviso Legal
+
+Este repositório contém materiais desenvolvidos por **Duan Lee Dom**, no contexto do curso de **Análise e Desenvolvimento de Sistemas** da [Fatec Bragança Paulista](https://fatecbraganca.cps.sp.gov.br/), vinculada ao **Centro Paula Souza**.
+
+* **Material de Autoria**: Códigos, anotações e exercícios podem ser consultados livremente para fins didáticos e pessoais, desde que os devidos créditos sejam mantidos.
+* **Restrições**: É expressamente proibida a reprodução ou redistribuição de materiais institucionais da Fatec Bragança Paulista, como: provas, slides, apostilas, roteiros de aula ou qualquer conteúdo fornecido diretamente por docentes ou pela coordenação.
+
+Esses materiais permanecem como **propriedade intelectual da instituição** e estão protegidos pelas diretrizes internas e pelas normas do Centro Paula Souza.
+
+---
+
+## 📬 Contato
+
+* **Autor**: [Duan Lee Dom](https://github.com/DuanLeeDom)
+* **LinkedIn**: [linkedin.com/in/duanleedom](https://www.linkedin.com/in/duanleedom/)
+
+---
+
+**Licença**: Este projeto está licenciado sob a [Licença MIT](LICENSE). Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.
